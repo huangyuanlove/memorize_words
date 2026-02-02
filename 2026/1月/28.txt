@@ -114,3 +114,6 @@ The quality of student's work improved after receving feedback.
 
 parlor
 My Father was receving a guest in the parlor.
+
+closedown
+The factory faced closedown due to lack of fund.
